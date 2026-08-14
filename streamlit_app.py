@@ -162,7 +162,7 @@ else:
     st.subheader('Income')
     st.pyplot(fig1)
   with chart2:
-    st.subheader('Employmenth Length')
+    st.subheader('Employment Length')
     st.pyplot(fig2)
   with chart3:
     st.subheader('Loan Amount')
